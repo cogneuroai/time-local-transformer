@@ -4,7 +4,7 @@ Human language processing, characterized by its ability to capture long-range de
 
 install requirements
 ```
-python3 -m pip install torch tqdm wandb numpy click transformers
+python3 -m pip install torch tqdm wandb numpy click transformers einops
 ```
 
 download and tokenize Wikitext2 dataset
